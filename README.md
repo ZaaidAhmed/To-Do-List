@@ -1,6 +1,6 @@
-# Personal To-Do List
+# To-Do List
 
-This project is a simple to-do list application for managing personal tasks. It allows users to add, edit, and delete tasks as needed.
+This project is a simple to-do list application for managing both personal and business tasks. It allows users to add, edit, and delete tasks as needed.
 
 ## Features
 
